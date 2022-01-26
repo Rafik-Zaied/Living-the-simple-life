@@ -1,4 +1,4 @@
-# living-the-simple-life
+# Living-the-simple-life
 John's Blog
 
 An example of a simple, clean and responsive blog template
